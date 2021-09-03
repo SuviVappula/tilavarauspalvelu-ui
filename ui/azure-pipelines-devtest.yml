@@ -14,7 +14,7 @@ pool: Default
 resources:
   repositories:
   # Azure DevOps repository
-  - repository:imagestream-quay-test-pipelines
+  - repository: imagestream-quay-test-pipelines
     type: git
     # project/repository
     name: imagestream-quay-test/imagestream-quay-test-pipelines
