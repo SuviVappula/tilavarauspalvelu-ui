@@ -4,9 +4,6 @@ trigger:
   branches:
     include:
     - main
-  paths:
-    include:
-    - ui
 
 # Opt out of pull request validation 
 pr: none
